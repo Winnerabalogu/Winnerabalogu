@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Winner Abalogu
+#  Hi, I'm Winner Abalogu
 
-🚀 **Full-Stack Developer & Tech Founder** building web and mobile apps that scale.
+ **Full-Stack Developer & Tech Founder** building web and mobile apps that scale.
 
-## 💼 What I Do
-- 🏢 Founder & CEO at **Nerdwave** (Web & Mobile Dev Agency)
-- 💻 CTO at **Emmfort Group**
-- 🎯 Co-Founder at **Zuputa**
+##  What I Do
+- Founder & CEO at **Nerdwave** (Web & Mobile Dev Agency)
+- CTO at **Emmfort Group**
+- Co-Founder at **Zuputa**
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend:**
 ```javascript
@@ -29,30 +29,30 @@ const databases = ['MongoDB', 'PostgreSQL', 'Firebase'];
 const tools = ['Git', 'VS Code', 'Postman', 'Vercel', 'Netlify', 'Heroku'];
 ```
 
-## 🔥 What I Build
+##  What I Build
 
-- 🛒 **E-commerce Platforms** - Full-stack MERN apps with payment integration
-- 📊 **SaaS Dashboards** - Real-time analytics with React & Node.js
-- 📱 **Mobile Apps** - Cross-platform React Native applications
-- 🌐 **Modern Websites** - Responsive, fast, SEO-optimized sites with Next.js
+-  **E-commerce Platforms** - Full-stack MERN apps with payment integration
+-  **SaaS Dashboards** - Real-time analytics with React & Node.js
+-  **Mobile Apps** - Cross-platform React Native applications
+-  **Modern Websites** - Responsive, fast, SEO-optimized sites with Next.js
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Winnerabalogu&theme=tokyonight&hide_border=true)
 
-## 🌱 Currently Learning
+##  Currently Learning
 - Advanced TypeScript patterns
 - Microservices architecture
 - Docker & Kubernetes
 - Cloud deployment (AWS/GCP)
 
-## 💬 Let's Connect
-- 📧 Email: wabalogu@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/abalogu-winner](https://linkedin.com/in/abalogu-winner)
-- 📱 WhatsApp: +234 811 196 8801
-- 🌐 Portfolio: [winner-nerd-wve.vercel.app]
+##  Let's Connect
+-   Email: wabalogu@gmail.com
+-   LinkedIn: [linkedin.com/in/abalogu-winner](https://linkedin.com/in/abalogu-winner)
+-   WhatsApp: +234 811 196 8801
+-   Portfolio: [winner-nerd-wve.vercel.app]
 
-## 🎯 Open to:
+##  Open to:
 ✅ Freelance Projects  
 ✅ Contract Work  
 ✅ Technical Consulting  
