@@ -38,10 +38,6 @@ const tools = ['Git', 'VS Code', 'Postman', 'Vercel', 'Netlify', 'Heroku'];
 
 ## 📈 GitHub Stats
 
-![Winner's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Winnerabalogu&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Winnerabalogu&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Winnerabalogu&theme=tokyonight&hide_border=true)
 
 ## 🌱 Currently Learning
