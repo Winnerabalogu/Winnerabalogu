@@ -26,21 +26,23 @@ const databases = ['MongoDB', 'PostgreSQL', 'Firebase'];
 
 **Tools:**
 ```javascript
-const tools = ['Git', 'VS Code', 'Postman', 'Vercel', 'Netlify'];
+const tools = ['Git', 'VS Code', 'Postman', 'Vercel', 'Netlify', 'Heroku'];
 ```
 
-## 🔥 Recent Projects
+## 🔥 What I Build
 
-- 🛒 **E-commerce Platform** - Full-stack MERN app with payment integration
-- 📊 **SaaS Dashboard** - Real-time analytics with React & Node.js
-- 📱 **Mobile App** - Cross-platform React Native application
-- 🌐 **Portfolio Sites** - Modern, responsive websites with Next.js
+- 🛒 **E-commerce Platforms** - Full-stack MERN apps with payment integration
+- 📊 **SaaS Dashboards** - Real-time analytics with React & Node.js
+- 📱 **Mobile Apps** - Cross-platform React Native applications
+- 🌐 **Modern Websites** - Responsive, fast, SEO-optimized sites with Next.js
 
 ## 📈 GitHub Stats
 
-![Winner's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abalogu-winner&show_icons=true&theme=dark)
+![Winner's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Winnerabalogu&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abalogu-winner&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Winnerabalogu&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Winnerabalogu&theme=tokyonight&hide_border=true)
 
 ## 🌱 Currently Learning
 - Advanced TypeScript patterns
@@ -51,8 +53,8 @@ const tools = ['Git', 'VS Code', 'Postman', 'Vercel', 'Netlify'];
 ## 💬 Let's Connect
 - 📧 Email: wabalogu@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/abalogu-winner](https://linkedin.com/in/abalogu-winner)
-- 🌐 Portfolio: [winner-nerd-wve.vercel.app]
 - 📱 WhatsApp: +234 811 196 8801
+- 🌐 Portfolio: [winner-nerd-wve.vercel.app]
 
 ## 🎯 Open to:
 ✅ Freelance Projects  
@@ -62,4 +64,10 @@ const tools = ['Git', 'VS Code', 'Postman', 'Vercel', 'Netlify'];
 
 ---
 
-💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+<div align="center">
+  
+### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+![Profile Views](https://komarev.com/ghpvc/?username=Winnerabalogu&color=blueviolet&style=flat-square)
+
+</div>
