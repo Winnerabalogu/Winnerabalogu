@@ -46,11 +46,6 @@ const tools = ['Git', 'VS Code', 'Postman', 'Vercel', 'Netlify', 'Heroku'];
 - Docker & Kubernetes
 - Cloud deployment (AWS/GCP)
 
-##  Let's Connect
--   Email: wabalogu@gmail.com
--   LinkedIn: [linkedin.com/in/abalogu-winner](https://linkedin.com/in/abalogu-winner)
--   WhatsApp: +234 811 196 8801
--   Portfolio: [winner-nerd-wve.vercel.app]
 
 ##  Open to:
 ✅ Freelance Projects  
